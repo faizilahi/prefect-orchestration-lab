@@ -1,5 +1,7 @@
 __pycache__/
 .venv/
-venv/
-.prefect/
-data/processed/
+output/
+*.pyc
+.DS_Store
+data/*.csv
+data/*.json
